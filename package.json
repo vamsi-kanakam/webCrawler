@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Just a simple web crawler using javascript using node",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsi-kanakam/webCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamsi-kanakam/webCrawler/issues"
+  },
+  "homepage": "https://github.com/vamsi-kanakam/webCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
