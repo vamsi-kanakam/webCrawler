@@ -1,5 +1,5 @@
 # webCrawler
-Just a simple web crawler using javascript using node
+Just a simple web crawler using javascript & node
 
 To test the functions during development we can use a testing tool called *`jest`*.
 
