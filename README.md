@@ -33,3 +33,15 @@ npm test
 ```
 npm install jsdom
 ```
+
+## Run it
+- To run this project use the command
+  ```
+  npm run start {url}
+  ```
+  OR
+  Example:
+  ```
+  npm start https://linkedin.com
+  ```
+  
